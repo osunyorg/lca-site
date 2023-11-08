@@ -17,4 +17,9 @@ items:
   target: "/organisations/"
   kind: page
   children: []
+- title: Écologie à la Française, souveraineté numérique, relocalisations… comment
+    on fait ?
+  target: "/ecologie-a-la-francaise-souverainete-numerique-relocalisations-comment-on-fait/"
+  kind: page
+  children: []
 
