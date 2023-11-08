@@ -17,4 +17,8 @@ items:
   target: "/la-methode-lca/convertir/"
   kind: page
   children: []
+- title: "{A} Acculer"
+  target: "/la-methode-lca/acculer/"
+  kind: page
+  children: []
 
