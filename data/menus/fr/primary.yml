@@ -34,4 +34,8 @@ items:
     target: "/la-methode-lca/c-convertir-la-majorite/"
     kind: page
     children: []
+  - title: 'A : Acculer les puissants'
+    target: "/la-methode-lca/a-acculer-les-puissants/"
+    kind: page
+    children: []
 
