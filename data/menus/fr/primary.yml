@@ -1,8 +1,7 @@
 ---
 title: Menu principal
 items:
-- title: Écologie à la Française, souveraineté numérique, relocalisations… comment
-    on fait ?
+- title: À propos
   target: "/ecologie-a-la-francaise-souverainete-numerique-relocalisations-comment-on-fait/"
   kind: page
   children: []
