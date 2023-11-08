@@ -1,14 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Équipe
-  target: "/equipe/"
-  kind: page
-  children: []
-- title: Organisations
-  target: "/organisations/"
-  kind: page
-  children: []
 - title: Écologie à la Française, souveraineté numérique, relocalisations… comment
     on fait ?
   target: "/ecologie-a-la-francaise-souverainete-numerique-relocalisations-comment-on-fait/"
