@@ -13,4 +13,8 @@ items:
   target: "/la-methode-lca/legitimer/"
   kind: page
   children: []
+- title: "{C} Convertir"
+  target: "/la-methode-lca/convertir/"
+  kind: page
+  children: []
 
