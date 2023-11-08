@@ -5,5 +5,7 @@ removePathAccents: true
 params:
   summary:
     position: hero
+  breadcrumb:
+    position: hero-end
   search:
-    active: false  
+    active: true
