@@ -5,6 +5,10 @@ items:
   target: "/la-methode-lca/"
   kind: page
   children:
+  - title: Contexte
+    target: "/la-methode-lca/contexte/"
+    kind: page
+    children: []
   - title: 'L : légitimer les pionniers'
     target: "/la-methode-lca/l-legitimer-les-pionniers/"
     kind: page
@@ -15,10 +19,6 @@ items:
     children: []
   - title: 'A : Acculer les puissants'
     target: "/la-methode-lca/a-acculer-les-puissants/"
-    kind: page
-    children: []
-  - title: Contexte
-    target: "/la-methode-lca/contexte/"
     kind: page
     children: []
 
