@@ -30,4 +30,8 @@ items:
     target: "/la-methode-lca/l-legitimer-les-pionniers/"
     kind: page
     children: []
+  - title: 'C : Convertir la majorité'
+    target: "/la-methode-lca/c-convertir-la-majorite/"
+    kind: page
+    children: []
 
