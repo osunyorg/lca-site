@@ -17,8 +17,4 @@ items:
   target: "/la-methode-lca/a-acculer-les-puissants/"
   kind: page
   children: []
-- title: La méthode LCA
-  target: "/la-methode-lca/"
-  kind: page
-  children: []
 
