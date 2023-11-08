@@ -5,10 +5,6 @@ items:
   target: "/la-methode-lca/introduction/"
   kind: page
   children: []
-- title: Contexte
-  target: "/la-methode-lca/contexte/"
-  kind: page
-  children: []
 - title: "{L} Légitimer"
   target: "/la-methode-lca/legitimer/"
   kind: page
