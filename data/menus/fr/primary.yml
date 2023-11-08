@@ -10,7 +10,7 @@ items:
   kind: page
   children: []
 - title: 'C : Convertir la majorité'
-  target: "/la-methode-lca/c-convertir-la-majorite/"
+  target: "/la-methode-lca/convertir/"
   kind: page
   children: []
 - title: 'A : Acculer les puissants'
