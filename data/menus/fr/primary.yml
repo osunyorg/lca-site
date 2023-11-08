@@ -1,6 +1,10 @@
 ---
 title: Menu principal
 items:
+- title: Introduction
+  target: "/la-methode-lca/introduction/"
+  kind: page
+  children: []
 - title: Contexte
   target: "/la-methode-lca/contexte/"
   kind: page
@@ -19,10 +23,6 @@ items:
   children: []
 - title: "{L} Légitimer"
   target: "/la-methode-lca/legitimer/"
-  kind: page
-  children: []
-- title: Introduction
-  target: "/la-methode-lca/introduction/"
   kind: page
   children: []
 
