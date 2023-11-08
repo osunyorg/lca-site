@@ -17,4 +17,8 @@ items:
     target: "/la-methode-lca/a-acculer-les-puissants/"
     kind: page
     children: []
+  - title: Contexte
+    target: "/la-methode-lca/contexte/"
+    kind: page
+    children: []
 
