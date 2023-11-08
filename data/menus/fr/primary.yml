@@ -22,4 +22,8 @@ items:
   target: "/ecologie-a-la-francaise-souverainete-numerique-relocalisations-comment-on-fait/"
   kind: page
   children: []
+- title: La méthode LCA
+  target: "/la-methode-lca/"
+  kind: page
+  children: []
 
