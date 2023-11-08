@@ -1,10 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: À propos
-  target: "/la-methode-lca/contexte/"
-  kind: page
-  children: []
 - title: La méthode LCA
   target: "/la-methode-lca/"
   kind: page
