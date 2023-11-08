@@ -9,16 +9,16 @@ items:
   target: "/la-methode-lca/l-legitimer-les-pionniers/"
   kind: page
   children: []
+- title: 'C : Convertir la majorité'
+  target: "/la-methode-lca/c-convertir-la-majorite/"
+  kind: page
+  children: []
+- title: 'A : Acculer les puissants'
+  target: "/la-methode-lca/a-acculer-les-puissants/"
+  kind: page
+  children: []
 - title: La méthode LCA
   target: "/la-methode-lca/"
   kind: page
-  children:
-  - title: 'C : Convertir la majorité'
-    target: "/la-methode-lca/c-convertir-la-majorite/"
-    kind: page
-    children: []
-  - title: 'A : Acculer les puissants'
-    target: "/la-methode-lca/a-acculer-les-puissants/"
-    kind: page
-    children: []
+  children: []
 
