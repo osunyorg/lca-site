@@ -9,14 +9,6 @@ items:
   target: "/la-methode-lca/contexte/"
   kind: page
   children: []
-- title: 'L : légitimer les pionniers'
-  target: "/la-methode-lca/legitimer/"
-  kind: page
-  children: []
-- title: 'C : Convertir la majorité'
-  target: "/la-methode-lca/convertir/"
-  kind: page
-  children: []
 - title: 'A : Acculer les puissants'
   target: "/la-methode-lca/acculer/"
   kind: page
