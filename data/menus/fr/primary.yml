@@ -2,7 +2,7 @@
 title: Menu principal
 items:
 - title: À propos
-  target: "/contexte/"
+  target: "/la-methode-lca/contexte/"
   kind: page
   children: []
 - title: La méthode LCA
