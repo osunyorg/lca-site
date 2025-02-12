@@ -2,6 +2,11 @@
 
 baseURL: https://lca.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 0eb33f1f-e613-4956-a7b2-29651b0282d1
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
