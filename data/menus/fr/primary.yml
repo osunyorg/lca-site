@@ -2,31 +2,39 @@
 title: Menu principal
 items:
 - title: Introduction
+  slug: introduction
   target: "/la-methode-lca/introduction/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/la-methode-lca/introduction"
   file: content/fr/pages/la-methode-lca/introduction/_index.html
 - title: "{L} Légitimer"
+  slug: l-legitimer
   target: "/la-methode-lca/legitimer/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/la-methode-lca/legitimer"
   file: content/fr/pages/la-methode-lca/legitimer/_index.html
 - title: "{C} Convertir"
+  slug: c-convertir
   target: "/la-methode-lca/convertir/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/la-methode-lca/convertir"
   file: content/fr/pages/la-methode-lca/convertir/_index.html
 - title: "{A} Acculer"
+  slug: a-acculer
   target: "/la-methode-lca/acculer/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/la-methode-lca/acculer"
   file: content/fr/pages/la-methode-lca/acculer/_index.html
 
