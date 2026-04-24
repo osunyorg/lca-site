@@ -15,14 +15,14 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/la-methode-lca/a-acculer-les-puissants/index.html"
+from = "/la-methode-lca/a-acculer-les-puissants/"
 to = "/la-methode-lca/acculer/"
 
 [[redirects]]
-from = "/la-methode-lca/l-legitimer-les-pionniers/index.html"
+from = "/la-methode-lca/l-legitimer-les-pionniers/"
 to = "/la-methode-lca/legitimer/"
 
 [[redirects]]
-from = "/la-methode-lca/c-convertir-la-majorite/index.html"
+from = "/la-methode-lca/c-convertir-la-majorite/"
 to = "/la-methode-lca/convertir/"
 
